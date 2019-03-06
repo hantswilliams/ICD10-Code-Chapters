@@ -1,0 +1,24 @@
+﻿ICD10_Chapter,ICD10_CodeRange,ICD10_Description
+1,A,Certain infectious and parasitic diseases
+1,B,Certain infectious and parasitic diseases
+2,C,Neoplasms
+"2, 3",D,Neoplasms and Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+4,E,"Endocrine, nutritional and metabolic diseases"
+5,F,"Mental, Behavioral and Neurodevelopmental disorders"
+6,G,Diseases of the nervous system
+"7,8",H,"Diseases of the eye, adnexa, ear, and mastoid process"
+9,I,Diseases of the circulatory system
+10,J,Diseases of the respiratory system
+11,K,Diseases of the digestive system
+12,L,Diseases of the skin and subcutaneous tissue
+13,M,Diseases of the musculoskeletal system and connective tissue
+14,N,Diseases of the genitourinary system
+15,O,"Pregnancy, childbirth and the puerperium"
+16,P,Certain conditions originating in the perinatal period
+17,Q,"Congenital malformations, deformations and chromosomal abnormalities"
+18,R,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+19,S,"Injury, poisoning and certain other consequences of external causes"
+19,T,"Injury, poisoning and certain other consequences of external causes"
+20,V,External causes of morbidity
+20,Y,External causes of morbidity
+21,Z,Factors influencing health status and contact with health services
